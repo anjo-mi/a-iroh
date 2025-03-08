@@ -1,0 +1,19 @@
+{
+  "name": "a-iroh",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anjo-mi/a-iroh.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anjo-mi/a-iroh/issues"
+  },
+  "homepage": "https://github.com/anjo-mi/a-iroh#readme",
+  "description": ""
+}
