@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "dev": "vite",
+    "build": "vite build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +17,10 @@
     "url": "https://github.com/anjo-mi/a-iroh/issues"
   },
   "homepage": "https://github.com/anjo-mi/a-iroh#readme",
+  "dependencies": {
+    "@tailwindcss/vite": "^4.0.17",
+    "tailwindcss": "^4.0.17"
+  },
+  "devDependencies": {},
   "description": ""
 }
